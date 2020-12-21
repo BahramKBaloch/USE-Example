@@ -12,3 +12,5 @@ As a bonus, I also added
 Tf-serving and a trick to make API hosted on google-colab accessible externally (free GPU based server for demos ;) ).
 
 There are many different variants of USE (https://tfhub.dev/google/collections/universal-sentence-encoder/1) some build for efficiency (USE-Lite based on Deep Averaging Network https://tfhub.dev/google/universal-sentence-encoder-lite/2), some for high accuracy (USE-Large based on transformers https://tfhub.dev/google/universal-sentence-encoder-large/5), and some built to support multiple languages in a single model (MUSE supports up to 16 languages https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)
+
+![tf docs example](https://github.com/BahramKBaloch/USE-Example/blob/main/example%20use.png?raw=true)
